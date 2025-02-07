@@ -253,7 +253,7 @@ img {
 
 /* CONTACT */
 #contact {
-  position: relative;
+background: url(../images/contact.jpeg);  
 }
 
 #contact::after {
